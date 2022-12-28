@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace codexjoshy\sleekmvc;
 
-use app\core\exceptions\NotFoundException;
+use codexjoshy\sleekmvc\exceptions\NotFoundException;
 
 class Router
 {

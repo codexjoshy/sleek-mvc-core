@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace codexjoshy\sleekmvc\form;
 
-use app\core\base\BaseModel;
+use codexjoshy\sleekmvc\base\BaseModel;
 
 class Form
 {

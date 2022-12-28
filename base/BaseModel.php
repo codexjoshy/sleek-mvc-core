@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\base;
+namespace codexjoshy\sleekmvc\base;
 
-use app\core\Application;
+use codexjoshy\sleekmvc\Application;
 
 abstract class BaseModel
 {

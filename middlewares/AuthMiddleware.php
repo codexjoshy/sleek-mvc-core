@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core\middlewares;
+namespace codexjoshy\sleekmvc\middlewares;
 
-use app\core\Application;
-use app\core\base\BaseMiddleware;
-use app\core\exceptions\ForbiddenException;
+use codexjoshy\sleekmvc\Application;
+use codexjoshy\sleekmvc\base\BaseMiddleware;
+use codexjoshy\sleekmvc\exceptions\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

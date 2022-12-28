@@ -6,5 +6,10 @@
             "email": "ebhoriajosh@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "codexjoshy\\sleekmvc": "."
+        }
+    }
 }

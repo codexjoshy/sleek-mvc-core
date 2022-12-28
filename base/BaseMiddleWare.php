@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\base;
+namespace codexjoshy\sleekmvc\base;
 
 abstract class BaseMiddleware
 {

@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\db;
+namespace codexjoshy\sleekmvc\db;
 
-use app\core\Application;
+use codexjoshy\sleekmvc\Application;
 
 class Database
 {

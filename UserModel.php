@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace codexjoshy\sleekmvc;
 
-use app\core\db\DbModel;
+use codexjoshy\sleekmvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

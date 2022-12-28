@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core;
+namespace codexjoshy\sleekmvc;
 
-use app\core\base\BaseController;
-use app\core\db\Database;
-use app\core\db\DbModel;
+use codexjoshy\sleekmvc\base\BaseController;
+use codexjoshy\sleekmvc\db\Database;
+use codexjoshy\sleekmvc\db\DbModel;
 
 class Application
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace codexjoshy\sleekmvc\db;
 
-use app\core\Application;
-use app\core\base\BaseModel;
+use codexjoshy\sleekmvc\Application;
+use codexjoshy\sleekmvc\base\BaseModel;
 
 abstract class DbModel extends BaseModel
 {

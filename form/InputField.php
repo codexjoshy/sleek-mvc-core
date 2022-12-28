@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\form;
+namespace codexjoshy\sleekmvc\form;
 
-use app\core\base\BaseField;
-use app\core\base\BaseModel;
+use codexjoshy\sleekmvc\base\BaseField;
+use codexjoshy\sleekmvc\base\BaseModel;
 
 class InputField extends BaseField
 {
